@@ -1,6 +1,3 @@
-# video que me ajudou a desenvolver https://www.youtube.com/watch?v=nPzde1YG4ko
-# nao consegui fazer pelo que foi passado no moodle
-
 import cv2
 import mediapipe as mp
 import pyautogui 
